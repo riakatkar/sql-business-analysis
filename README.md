@@ -30,7 +30,7 @@ business insights related to revenue, customer behavior, and performance trends.
 
 ## 🚀 Conclusion
 This project demonstrates strong SQL fundamentals and business-oriented thinking.
-It is suitable for entry-level Data Analyst / Business Analyst roles.
+It is suitable for entry-level Data Analyst / Business Analyst roles
 
 ## 📌 Author
 **Ria Katkar**  
